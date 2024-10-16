@@ -1,0 +1,152 @@
+[
+  {
+    "text": "Amazing book! Must read. The characters are well-developed and the plot is engaging. I couldn't put it down once I started reading. Highly recommend it to everyone.",
+    "rating": 10,
+    "bookIsbn": "9780439708180",
+    "userEmail": "john.doe@example.com"
+  },
+  {
+    "text": "Very imaginative. J.K. Rowling's world-building is top-notch. The magical elements are seamlessly integrated into a compelling story. A delightful read for both children and adults.",
+    "rating": 8,
+    "bookIsbn": "9780439708180",
+    "userEmail": "jane.doe@example.com"
+  },
+  {
+    "text": "Great classic. Fitzgerald's writing style is beautiful and the themes are still relevant today. The story of Gatsby and Daisy is both tragic and timeless.",
+    "rating": 9,
+    "bookIsbn": "9780743273565",
+    "userEmail": "jane.doe@example.com"
+  },
+  {
+    "text": "Enjoyable read. The Great Gatsby captures the essence of the Jazz Age perfectly. The characters are intriguing and the story is captivating. Definitely worth a read.",
+    "rating": 8,
+    "bookIsbn": "9780743273565",
+    "userEmail": "bob.johnson@example.com"
+  },
+  {
+    "text": "Very insightful. Harper Lee's portrayal of racial injustice is powerful and moving. The story of Scout and her father, Atticus Finch, is one that will stay with you long after you've finished the book.",
+    "rating": 10,
+    "bookIsbn": "9780060935467",
+    "userEmail": "alice.smith@example.com"
+  },
+  {
+    "text": "Thought-provoking. A dystopian novel that feels eerily relevant in today's world. Orwell's vision of a totalitarian regime is chilling and thought-provoking. A must-read for everyone.",
+    "rating": 9,
+    "bookIsbn": "9780060935467",
+    "userEmail": "charlie.brown@example.com"
+  },
+  {
+    "text": "A bit overrated. The story didn't resonate with me as much as I expected. However, I can see why it's considered a classic. The writing is excellent and the themes are important.",
+    "rating": 7,
+    "bookIsbn": "9780316769488",
+    "userEmail": "charlie.brown@example.com"
+  },
+  {
+    "text": "Good book. I enjoyed the characters and the setting. The story was engaging, but not as impactful as other classics I've read. Still, a worthwhile read.",
+    "rating": 7,
+    "bookIsbn": "9780316769488",
+    "userEmail": "eve.davis@example.com"
+  },
+  {
+    "text": "Loved the characters. Jane Austen's characters are always so well-drawn and relatable. The story of Elizabeth Bennet and Mr. Darcy is both romantic and insightful.",
+    "rating": 9,
+    "bookIsbn": "9780141439518",
+    "userEmail": "dave.wilson@example.com"
+  },
+  {
+    "text": "A timeless classic. Pride and Prejudice offers a witty commentary on society and relationships. Austen's writing is sharp and engaging. I thoroughly enjoyed it.",
+    "rating": 8,
+    "bookIsbn": "9780141439518",
+    "userEmail": "hank.taylor@example.com"
+  },
+  {
+    "text": "Excellent! The Hobbit is a wonderful adventure story. Tolkien's world-building is incredible and the characters are unforgettable. A must-read for fantasy lovers.",
+    "rating": 10,
+    "bookIsbn": "9780547928227",
+    "userEmail": "grace.moore@example.com"
+  },
+  {
+    "text": "Very engaging. Fahrenheit 451 is a thought-provoking read. Bradbury's vision of a future where books are banned is both frightening and fascinating.",
+    "rating": 8,
+    "bookIsbn": "9781451673319",
+    "userEmail": "frank.miller@example.com"
+  },
+  {
+    "text": "Could not finish it. The writing style of Moby-Dick was too dense for my taste. I appreciate the themes and the story, but it just wasn't for me.",
+    "rating": 3,
+    "bookIsbn": "9781503280786",
+    "userEmail": "grace.moore@example.com"
+  },
+  {
+    "text": "Just okay. Moby-Dick is a challenging read. While I understand its literary significance, I found it hard to stay engaged. The story felt drawn out at times.",
+    "rating": 6,
+    "bookIsbn": "9781503280786",
+    "userEmail": "ivy.anderson@example.com"
+  },
+  {
+    "text": "Loved the story. Fahrenheit 451 is a gripping tale. The themes of censorship and the power of books are very relevant. I highly recommend it.",
+    "rating": 7,
+    "bookIsbn": "9781451673319",
+    "userEmail": "leo.garcia@example.com"
+  },
+  {
+    "text": "A fantastic journey. The magic and adventure kept me hooked from start to finish.",
+    "rating": 10,
+    "bookIsbn": "9780547928227",
+    "userEmail": "jack.thomas@example.com"
+  },
+  {
+    "text": "A compelling read. The themes are still relevant today.",
+    "rating": 8,
+    "bookIsbn": "9780451524935",
+    "userEmail": "karen.martin@example.com"
+  },
+  {
+    "text": "An insightful read. The narrative was powerful and engaging.",
+    "rating": 10,
+    "bookIsbn": "9780060935467",
+    "userEmail": "leo.garcia@example.com"
+  },
+  {
+    "text": "A must-read. The book addresses important themes in a very compelling manner.",
+    "rating": 10,
+    "bookIsbn": "9780439708180",
+    "userEmail": "frank.miller@example.com"
+  },
+  {
+    "text": "An excellent depiction of societal issues. Very relevant.",
+    "rating": 9,
+    "bookIsbn": "9780743273565",
+    "userEmail": "eve.davis@example.com"
+  },
+  {
+    "text": "Thought-provoking. The narrative stays with you long after you finish reading.",
+    "rating": 9,
+    "bookIsbn": "9780451524935",
+    "userEmail": "grace.moore@example.com"
+  },
+  {
+    "text": "Interesting story but a bit lengthy for my taste.",
+    "rating": 6,
+    "bookIsbn": "9781503280786",
+    "userEmail": "dave.wilson@example.com"
+  },
+  {
+    "text": "Not as engaging as I hoped, but still a good read.",
+    "rating": 7,
+    "bookIsbn": "9780316769488",
+    "userEmail": "hank.taylor@example.com"
+  },
+  {
+    "text": "An important read for everyone. Really makes you think.",
+    "rating": 9,
+    "bookIsbn": "9780451524935",
+    "userEmail": "charlie.brown@example.com"
+  },
+  {
+    "text": "One of the best books I have ever read. Simply amazing.",
+    "rating": 10,
+    "bookIsbn": "9780060935467",
+    "userEmail": "bob.johnson@example.com"
+  }
+]

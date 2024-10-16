@@ -1,0 +1,107 @@
+[
+  {
+    "firstName": "Admin",
+    "lastName": "User",
+    "email": "admin@example.com",
+    "password": "adminpass",
+    "role": "ADMIN"
+  },
+  {
+    "firstName": "John",
+    "lastName": "Doe",
+    "email": "john.doe@example.com",
+    "password": "password123",
+    "role": "USER"
+  },
+  {
+    "firstName": "Jane",
+    "lastName": "Doe",
+    "email": "jane.doe@example.com",
+    "password": "password456",
+    "role": "USER"
+  },
+  {
+    "firstName": "Alice",
+    "lastName": "Smith",
+    "email": "alice.smith@example.com",
+    "password": "password789",
+    "role": "USER"
+  },
+  {
+    "firstName": "Bob",
+    "lastName": "Johnson",
+    "email": "bob.johnson@example.com",
+    "password": "password000",
+    "role": "USER"
+  },
+  {
+    "firstName": "Charlie",
+    "lastName": "Brown",
+    "email": "charlie.brown@example.com",
+    "password": "password111",
+    "role": "USER"
+  },
+  {
+    "firstName": "Dave",
+    "lastName": "Wilson",
+    "email": "dave.wilson@example.com",
+    "password": "password222",
+    "role": "USER"
+  },
+  {
+    "firstName": "Eve",
+    "lastName": "Davis",
+    "email": "eve.davis@example.com",
+    "password": "password333",
+    "role": "USER"
+  },
+  {
+    "firstName": "Frank",
+    "lastName": "Miller",
+    "email": "frank.miller@example.com",
+    "password": "password444",
+    "role": "USER"
+  },
+  {
+    "firstName": "Grace",
+    "lastName": "Moore",
+    "email": "grace.moore@example.com",
+    "password": "password555",
+    "role": "USER"
+  },
+  {
+    "firstName": "Hank",
+    "lastName": "Taylor",
+    "email": "hank.taylor@example.com",
+    "password": "password666",
+    "role": "USER"
+  },
+  {
+    "firstName": "Ivy",
+    "lastName": "Anderson",
+    "email": "ivy.anderson@example.com",
+    "password": "password777",
+    "role": "USER"
+  },
+  {
+    "firstName": "Jack",
+    "lastName": "Thomas",
+    "email": "jack.thomas@example.com",
+    "password": "password888",
+    "role": "USER"
+  },
+  {
+    "firstName": "Karen",
+    "lastName": "Martin",
+    "email": "karen.martin@example.com",
+    "password": "password999",
+    "role": "USER"
+  },
+  {
+    "firstName": "Leo",
+    "lastName": "Garcia",
+    "email": "leo.garcia@example.com",
+    "password": "password0000",
+    "role": "USER"
+  }
+]

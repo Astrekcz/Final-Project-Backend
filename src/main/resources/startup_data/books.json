@@ -1,0 +1,90 @@
+[
+  {
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "author": "J.K. Rowling",
+    "isbn": "9780439708180",
+    "publishYear": 1997,
+    "numberOfReviews": 3,
+    "overallRating": 9.2
+  },
+  {
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "isbn": "9780743273565",
+    "publishYear": 1925,
+    "numberOfReviews": 3,
+    "overallRating": 8.6
+  },
+  {
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "isbn": "9780060935467",
+    "publishYear": 1960,
+    "numberOfReviews": 4,
+    "overallRating": 9.4
+  },
+  {
+    "title": "1984",
+    "author": "George Orwell",
+    "isbn": "9780451524935",
+    "publishYear": 1949,
+    "numberOfReviews": 3,
+    "overallRating": 9.3
+  },
+  {
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "isbn": "9780316769488",
+    "publishYear": 1951,
+    "numberOfReviews": 3,
+    "overallRating": 7.0
+  },
+  {
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "isbn": "9780141439518",
+    "publishYear": 1813,
+    "numberOfReviews": 2,
+    "overallRating": 8.3
+  },
+  {
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "isbn": "9780547928227",
+    "publishYear": 1937,
+    "numberOfReviews": 2,
+    "overallRating": 9.6
+  },
+  {
+    "title": "Fahrenheit 451",
+    "author": "Ray Bradbury",
+    "isbn": "9781451673319",
+    "publishYear": 1953,
+    "numberOfReviews": 2,
+    "overallRating": 7.8
+  },
+  {
+    "title": "Moby-Dick",
+    "author": "Herman Melville",
+    "isbn": "9781503280786",
+    "publishYear": 1851,
+    "numberOfReviews": 3,
+    "overallRating": 4.4
+  },
+  {
+    "title": "The Lord of the Rings",
+    "author": "J.R.R. Tolkien",
+    "isbn": "9780261102385",
+    "publishYear": 1954,
+    "numberOfReviews": 0,
+    "overallRating": 0.0
+  },
+  {
+    "title": "The Chronicles of Narnia",
+    "author": "C.S. Lewis",
+    "isbn": "9780066238500",
+    "publishYear": 1950,
+    "numberOfReviews": 0,
+    "overallRating": 0.0
+  }
+]
